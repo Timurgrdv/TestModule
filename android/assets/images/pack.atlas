@@ -1,0 +1,48 @@
+
+pack.png
+size: 256,256
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+earth
+  rotate: false
+  xy: 2, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mercury
+  rotate: false
+  xy: 198, 44
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+satellite
+  rotate: false
+  xy: 198, 82
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 132, 132
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+stop
+  rotate: false
+  xy: 100, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 2, 100
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
